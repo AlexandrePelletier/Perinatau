@@ -1,5 +1,6 @@
 
-#proteo transcripto integr
+#Proteomics and transcriptomics integration to perform regulome analysis 
+#i.e. identifying correlated Transcription Factor abundance and downstream target (regulon) in data, and associate it to a particular condition
 out<-'outputs/TauHFDRegulome'
 dir.create(out)
 source('../utils/r_utils.R') #https://github.com/AlexandrePelletier/alexandre-utils/blob/main/r_utils.R
